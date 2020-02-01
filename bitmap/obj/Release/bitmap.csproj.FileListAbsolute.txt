@@ -1,0 +1,5 @@
+c:\users\server2\documents\visual studio 2015\Projects\bitmap\bitmap\bin\Release\bitmap.exe.config
+c:\users\server2\documents\visual studio 2015\Projects\bitmap\bitmap\bin\Release\bitmap.exe
+c:\users\server2\documents\visual studio 2015\Projects\bitmap\bitmap\bin\Release\bitmap.pdb
+c:\users\server2\documents\visual studio 2015\Projects\bitmap\bitmap\obj\Release\bitmap.exe
+c:\users\server2\documents\visual studio 2015\Projects\bitmap\bitmap\obj\Release\bitmap.pdb

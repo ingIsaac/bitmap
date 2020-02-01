@@ -1,0 +1,6 @@
+c:\users\server2\documents\visual studio 2015\Projects\bitmap\bitmap\bin\Debug\bitmap.exe.config
+c:\users\server2\documents\visual studio 2015\Projects\bitmap\bitmap\bin\Debug\bitmap.exe
+c:\users\server2\documents\visual studio 2015\Projects\bitmap\bitmap\bin\Debug\bitmap.pdb
+c:\users\server2\documents\visual studio 2015\Projects\bitmap\bitmap\obj\Debug\bitmap.csprojResolveAssemblyReference.cache
+c:\users\server2\documents\visual studio 2015\Projects\bitmap\bitmap\obj\Debug\bitmap.exe
+c:\users\server2\documents\visual studio 2015\Projects\bitmap\bitmap\obj\Debug\bitmap.pdb
