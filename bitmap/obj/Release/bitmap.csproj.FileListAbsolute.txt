@@ -3,3 +3,9 @@ c:\users\server2\documents\visual studio 2015\Projects\bitmap\bitmap\bin\Release
 c:\users\server2\documents\visual studio 2015\Projects\bitmap\bitmap\bin\Release\bitmap.pdb
 c:\users\server2\documents\visual studio 2015\Projects\bitmap\bitmap\obj\Release\bitmap.exe
 c:\users\server2\documents\visual studio 2015\Projects\bitmap\bitmap\obj\Release\bitmap.pdb
+C:\Users\ISAAC\Documents\Visual Studio 2015\Projects\bitmap\bitmap\bin\Release\bitmap.exe.config
+C:\Users\ISAAC\Documents\Visual Studio 2015\Projects\bitmap\bitmap\obj\Release\bitmap.exe
+C:\Users\ISAAC\Documents\Visual Studio 2015\Projects\bitmap\bitmap\obj\Release\bitmap.pdb
+C:\Users\ISAAC\Documents\Visual Studio 2015\Projects\bitmap\bitmap\bin\Release\bitmap.exe
+C:\Users\ISAAC\Documents\Visual Studio 2015\Projects\bitmap\bitmap\bin\Release\bitmap.pdb
+C:\Users\ISAAC\Documents\Visual Studio 2015\Projects\bitmap\bitmap\obj\Release\bitmap.csprojResolveAssemblyReference.cache
