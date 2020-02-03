@@ -67,6 +67,14 @@ namespace bitmap
                 {
                     r = tc;
                 }
+                else
+                {
+                    tc = (from x in doc.Descendants("spells").Elements("conjure") where x.Attribute("name").Value == spell select x).Select(x => x.Attribute("words").Value).SingleOrDefault();
+                    if(tc != null)
+                    {
+                        r = tc;
+                    }
+                }
             }
             catch(Exception e)
             {
